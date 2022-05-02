@@ -10,7 +10,8 @@ One non-standard Python packages are required to run the code: `quadprog`.
 List of all dependencies are avialable in the `requirement.txt` and `mc-pscc2022.yml`
 
 ## Quick start
-Run `Multi-Area-Case-Study_PSCC2022.ipynb` to reproduce case study's result
+Please extract the compressed files in `data\process-data\generated-load` and 
+run `Multi-Area-Case-Study_PSCC2022.ipynb` to reproduce case study's result
 
 ### NOTE
 Find Generative models at: https://github.com/ChenguangWang-Sam/PSCC2022-CVAE 
